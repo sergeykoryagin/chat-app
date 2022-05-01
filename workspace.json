@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "chat-mobile": "apps/chat-mobile",
+    "chat-server": "apps/chat-server"
+  }
+}
